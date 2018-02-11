@@ -33,6 +33,10 @@
         {
           "name": "shock",
           "dataType": 1
+        },
+        {
+          "name":"priceValue",
+          "dataType":2
         }
     ]
   }
